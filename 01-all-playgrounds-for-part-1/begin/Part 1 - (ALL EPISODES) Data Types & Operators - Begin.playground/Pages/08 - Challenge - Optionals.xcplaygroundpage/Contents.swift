@@ -14,6 +14,13 @@
 // TODO: Write solution here
 let hasAllergies = true
 
+var dogName: String?
+
+if hasAllergies {
+    dogName = nil
+} else {
+    dogName = "Mango"
+}
 /*:
  ## Challenge 2
  
@@ -23,7 +30,7 @@ let hasAllergies = true
  */
 
 // TODO: Write solution here
-
+let parsedInt = Int("10") // inverse of line 47
 
 
 
@@ -37,4 +44,5 @@ let hasAllergies = true
  */
 
 // TODO: Write solution here
+let newParsedInt = Int("Cat") // cant convert this string to an int so it is converted to nil
 

@@ -11,7 +11,8 @@
 
 // TODO: Write solution here
 
-
+let myAge = 24
+let isVotingAge = myAge > 18
 /*:
  ## Challenge 2
  
@@ -23,7 +24,9 @@
  */
 
 // TODO: Write solution here
-
+let student = "Ricky"
+let author = "Matt Gollaway"
+let authorIsStudent = (student == author)
 
 
 /*:
@@ -35,7 +38,7 @@
  */
 
 // TODO: Write solution here
-
+let studentBeforeAuthor = (student > author)
 
 
 //: [⇒ Next: 05 - Logical Operators](@next)

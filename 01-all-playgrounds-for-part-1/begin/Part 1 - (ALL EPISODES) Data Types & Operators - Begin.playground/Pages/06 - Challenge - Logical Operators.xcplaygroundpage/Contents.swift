@@ -10,6 +10,13 @@
  */
 
 // TODO: Write solution here
+let myAge = 24
+
+if myAge > 13 && myAge <= 19 {
+    print("Teenager")
+} else {
+    print("Not a teenager")
+}
 
 
 /*:
@@ -20,6 +27,6 @@
  */
 
 // TODO: Write solution here
-
+let teenagerName = myAge > 13 && myAge <= 19 ? "Ricky Arora" : "Not me!"
 
 //: [⇒ Next: 07 - Optionals](@next)
